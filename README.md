@@ -1,6 +1,11 @@
-### Hi there 👋
+#  👋 안녕하세요.
+Hello. こんにちは. 你好。 Hola. Bonjour. Hallo. Здравствуйте. Olá! Benvenuto. Xin chào. สวัสดีครับ Halo नमस्कार
 
-profile test
+- 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+
+
+
 
 <!--
 **huxley-data/huxley-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
